@@ -12,22 +12,23 @@ The objective in this project is to convert the outputs of software related to h
 [Embedding IT-enabled decision support tools to improve quality of care for patients hospitalized with heart failure](https://cecs.anu.edu.au/research/student-research-projects/embedding-it-enabled-decision-support-tools-improve-quality-care)
 
 ## Project Compositions
-# System Analysis
+### System Analysis
 **Responsible Person:** Zongge Ren
 
 
 
-# Cardio Domain Analysis
+### Cardio Domain Analysis
 **Responsible Person:** Chang Liu
+**Progress:**
+- **Stage 1:** By reading through the [Guidelines for the Prevention, Detection, and Management of Heart Failure in Australia 2018](https://drive.google.com/file/d/1KNJR7wPJ2RMmW9jd9E5QFGmX4Nd3T2ZX/view?usp=sharing), a [table](https://drive.google.com/file/d/1FCBe9Ke8oGg8ileX_KM6f0XdFkLxwwS4/view?usp=sharing) containing data that will be inputted into the decision support tool and displayed on the UI is concluded.
 
 
-
-# Experience Design
+### Experience Design
 **Responsible Person:** Yanlong Li
 
 
 
-# Architecture Requirements Analysis
+### Architecture Requirements Analysis
 **Responsible Person:**  Yuqing Zhang, Ruowei Huang
 
 
