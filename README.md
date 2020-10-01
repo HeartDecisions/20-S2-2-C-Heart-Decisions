@@ -8,7 +8,31 @@ The next step in our project will be to integrate the decision support tool with
 
 The objective in this project is to convert the outputs of software related to heart failure into FHIR standard inputs to be utilised by developed software.
 
-## Homepage: 
-https://cecs.anu.edu.au/research/student-research-projects/embedding-it-enabled-decision-support-tools-improve-quality-care
+## Homepage
+[Embedding IT-enabled decision support tools to improve quality of care for patients hospitalized with heart failure](https://cecs.anu.edu.au/research/student-research-projects/embedding-it-enabled-decision-support-tools-improve-quality-care)
+
+## Project Compositions
+# System Analysis
+**Responsible Person:** Zongge Ren
+
+
+
+# Cardio Domain Analysis
+**Responsible Person:** Chang Liu
+
+
+
+# Experience Design
+**Responsible Person:** Yanlong Li
+
+
+
+# Architecture Requirements Analysis
+**Responsible Person:**  Yuqing Zhang, Ruowei Huang
+
+
+
+
+
 
 
